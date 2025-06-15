@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 customer_id,name,email,purchase_amount,purchase_date
 101,Aina,aina@example.com,250.75,2024-12-01
 102,Zaki,zaki@example.com,99.99,2024-12-03
 103,Suresh,suresh@example.com,120.00,2024-12-05
 104,Emily,emily@example.com,305.50,2024-12-08
+=======
+customer_id,name,email,purchase_amount,purchase_date
+101,Aina,aina@example.com,250.75,2024-12-01
+102,Zaki,zaki@example.com,99.99,2024-12-03
+103,Suresh,suresh@example.com,120.00,2024-12-05
+104,Emily,emily@example.com,305.50,2024-12-08
+>>>>>>> 992167ddfdbd24510755ebd67ee337c1bb1b8c53
